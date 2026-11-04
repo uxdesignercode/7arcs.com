@@ -1,0 +1,12 @@
+{
+  "name": "Seven Arcs — Coming soon",
+  "short_name": "Seven Arcs",
+  "description": "Seven Arcs is a digital studio. We're putting the finishing touches on our new home.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
